@@ -1,1 +1,1 @@
-# tianji-robot-SDK03
+此仓库收录运动控制SDK03版本的相关内容，仅适用烧录03版本的固件。目前仅支持Marvin Pro产品线，请前往/Marvin_Pro分支查阅。摇操部分相关操作说明请查阅：https://klmmotion.github.io/Apex_doc_center/
