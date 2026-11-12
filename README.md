@@ -443,3 +443,6 @@
 ## 📄 许可证
 
 本项目基于 Apache License 2.0 许可证开源。详见 [LICENSE](LICENSE) 文件。
+
+Copyright © 2026 tianjizn. All rights reserved.
+
